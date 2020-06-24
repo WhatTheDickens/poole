@@ -7,9 +7,9 @@ relative_permalinks: true
 # Setup
 title:               SUNY Geneseo Writing Guide
 tagline:             Writing Guide
-url:                 http://getpoole.com
+url:                 https://whatthedickens.github.io/poole/
 paginate:            1
-baseurl:             https://paulschacht.net/poole/
+baseurl:             https://whatthedickens.github.io/poole/
 
 # Assets
 #
