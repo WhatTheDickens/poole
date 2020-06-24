@@ -5,11 +5,11 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
+title:               SUNY Geneseo Writing Guide
+tagline:             Writing Guide
 url:                 http://getpoole.com
 paginate:            1
-baseurl:             ""
+baseurl:             https://paulschacht.net/suny-geneseo-writing-guide/
 
 # Assets
 #
